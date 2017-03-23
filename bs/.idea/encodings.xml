@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin/admin.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/include/login.fun.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/include/movie.fun.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/include/news.fun.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/index.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_admin.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_fangying.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_movie.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_news.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_pay.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/insert_type.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/login.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/loginout.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/main.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/orderinfo.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_admin.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_fangying.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_movie.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_news.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_order.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_pay.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_type.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/select_users.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/session.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_admin.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_fangying.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_movie.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_movie_type.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_news.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/admin/update_pay.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/cart.fun.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common/config.inc.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common/footer.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common/function.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common/header.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/common/header111111111111111111111.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/css/index.css" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/exit.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/include/admin.fun.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/kindeditor/asp/JSON_2.0.4.asp" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/login.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/mycart.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/myorder.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/news.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/orderinfo.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/pay.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/search.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/seat.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/session.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/show_movie.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/show_news.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/update.php" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/zhuce.php" charset="GB2312" />
+  </component>
+</project>

@@ -1,0 +1,136 @@
+/* CSS Document */
+
+body {
+    margin: 0px;
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-size: 16px;
+    color: #999999;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#top {
+    width: 100%;
+    min-height: 50px;
+    height: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#lunbo {
+    width: 100%;
+    min-height: 400px;
+    height: auto;
+}
+
+#main {
+    width: 980px;
+    margin: auto;
+    min-height: 530px;
+    height: auto;
+    border: 0px solid #999999;
+}
+
+#main_left {
+    width: 300px;
+    min-height: 530px;
+    height: auto;
+    float: left;
+}
+
+#main_left1 {
+    width: 300px;
+    min-height: 530px;
+    height: auto;
+    float: left;
+    border: 1px solid #999999;
+}
+
+#main_right {
+    width: 660px;
+    float: right;
+    min-height: 530px;
+    height: auto;
+}
+
+#main2 {
+    width: 980px;
+    margin: auto;
+    min-height: 300px;
+    height: auto;
+    border: 0px solid #999999;
+}
+
+#buttom {
+    width: 980px;
+    padding-top: 10px;
+    margin: auto;
+    min-height: 30px;
+    height: auto;
+    margin-top: 20px;
+    border-top: 2px solid #0081BC;
+    text-align: center;
+}
+
+#title {
+    width: 100%;
+    min-height: 30px;
+    height: auto;
+    background-color: #0081BC;
+    padding-top: 10px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.bx-controls {
+    display: none
+}
+/*header*/
+.denglu{
+    float: right;  margin-top:10px;
+}
+.header-search{
+    float: right;
+    margin-top: 12px;
+}
+.search1 {
+    width: 150px;
+    min-height: 30px;
+    height: auto;
+    border: 2px solid #0081BC;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+.search2{
+    width: 45px;
+    min-height: 45px;
+    border-radius: 22px;
+    background-color: #0081BC;
+    color: #FFFFFF;
+    border: 0px solid #0081BC;
+}
+.shouye{
+    color:#0081BC;
+}
+/*zhuce*/
+font{
+    color: #FF0000;
+}
+/*.container{*/
+    /*background: rgba(255, 255, 255, 0.3);*/
+    /*margin-bottom: 15px;*/
+/*}*/
+#zc_zh{
+    width: 200px;
+    height: 25px;
+    background-color: #FFFFFF;
+}
